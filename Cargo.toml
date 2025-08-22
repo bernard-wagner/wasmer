@@ -83,8 +83,13 @@ edition = "2021"
 homepage = "https://wasmer.io/"
 license = "MIT"
 repository = "https://github.com/wasmerio/wasmer"
+<<<<<<< HEAD
 rust-version = "1.74"
 version = "4.3.7"
+=======
+rust-version = "1.77"
+version = "4.2.8"
+>>>>>>> support-rust-1.89.0
 
 [workspace.dependencies]
 # Repo-local crates
